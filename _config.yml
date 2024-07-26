@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Paulina Kulytė"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Paulina Kulytė"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Paulina"
+  name             : "Paulina Kulytė"
   pronouns         : # example: "she/her"  
   bio              : "ML Research Scientist"
   location         : "New York, US"
-  employer         : "Absci"
+  employer         : # URL
   uri              : # URL
   email            : "paulina.kulyte@gmail.com" 
 
