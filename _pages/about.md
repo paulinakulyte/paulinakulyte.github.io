@@ -19,4 +19,4 @@ Publications
 
 - **Improving Antibody Design with Force-Guided Sampling in Diffusion Models.** Paulina Kulytė, Francisco Vargas, Simon Valentin Mathis, Yu Guang Wang, José Miguel Hernández-Lobato, Pietro Liò. _arXiv_ (2024). [\[pdf\]](https://arxiv.org/pdf/2406.05832)
 
-- **Metric Learning for Clifford Group Equivariant Neural Networks.** Riccardo Ali*, Paulina Kulytė*, Haitz Sáez de Ocáriz Borde, Pietro Liò. _ICML 2024 Workshop on Geometry-grounded Representation Learning and Generative Modeling_ (2024). [\[pdf\]](https://arxiv.org/pdf/2407.09926)
+- **Metric Learning for Clifford Group Equivariant Neural Networks.** Riccardo Ali\*, Paulina Kulytė\*, Haitz Sáez de Ocáriz Borde, Pietro Liò. _ICML 2024 Workshop on Geometry-grounded Representation Learning and Generative Modeling_ (2024). [\[pdf\]](https://arxiv.org/pdf/2407.09926)
