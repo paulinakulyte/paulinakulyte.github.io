@@ -6,11 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am a ML Research Scientist at [Absci](https://www.absci.com/) in Zurich, Switzerland, working on generative models for antibody design.
+Hi, I am a ML Research Engineer at [Absci](https://www.absci.com/) in Zurich, Switzerland, working on generative models for antibody design.
 
 I hold a Master's degree in Advanced Computer Science from the [University of Cambridge](https://www.cst.cam.ac.uk/). For my Master's thesis, I worked on diffusion models for antibody design, advised by [Professor Pietro Liò](https://scholar.google.com/citations?user=4YhNJBEAAAAJ&hl=en) and [Professor José Miguel Hernández-Lobato](https://scholar.google.com/citations?user=BEBccCQAAAAJ&hl=en). Prior to my Master's, I was a Software Engineer at [Morgan Stanley](https://www.morganstanley.com/).
-
-My research interests include generative models and geometric deep learning for applications in protein design.
 
 An up-to-date list of my publications is available below and on my [Google Scholar](https://scholar.google.com/citations?user=izbFB5YAAAAJ&hl=en).
 
