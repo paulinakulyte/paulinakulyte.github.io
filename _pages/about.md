@@ -13,7 +13,7 @@ I am a ML Research Engineer at [Absci](https://www.absci.com/), working on gener
 
 An up-to-date list of my publications is available below and on my [Google Scholar](https://scholar.google.com/citations?user=izbFB5YAAAAJ&hl=en).
 
-Publications
+Publications 
 ------
 
 - **Origin-1: a generative AI platform for de novo antibody design against novel epitopes.**  
