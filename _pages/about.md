@@ -17,11 +17,11 @@ Publications
 ------
 
 - **Origin-1: a generative AI platform for de novo antibody design against novel epitopes.**  
-  Simon Levine\*, Jonathan Edward King\*, Jacob Stern\*, David Grayson\*, Raymond Wang\*, Rui Yin\*, Umberto Lupo\*, <u>Paulina Kulytė\*</u>, Ryan Matthew Brand\*, Tristan Bertin\*, et al. _bioRxiv_ (2026). [\[pdf\]](https://www.biorxiv.org/content/biorxiv/early/2026/01/14/2026.01.14.699389.full.pdf)
+  Simon Levine\*, Jonathan Edward King\*, Jacob Stern\*, David Grayson\*, Raymond Wang\*, Rui Yin\*, Umberto Lupo\*, <u>Paulina Kulytė*</u>, Ryan Matthew Brand\*, Tristan Bertin\*, et al. _bioRxiv_ (2026). [\[pdf\]](https://www.biorxiv.org/content/biorxiv/early/2026/01/14/2026.01.14.699389.full.pdf)
 
 - **Improving Antibody Design with Force-Guided Sampling in Diffusion Models.**  
   <u>Paulina Kulytė</u>, Francisco Vargas, Simon Valentin Mathis, Yu Guang Wang, José Miguel Hernández-Lobato, Pietro Liò. _NeurIPS 2024 Workshop on Machine Learning in Structural Biology_ (2024). [\[pdf\]](https://arxiv.org/pdf/2406.05832)
 
 - **Metric Learning for Clifford Group Equivariant Neural Networks.**  
-  <u>Paulina Kulytė\*</u>, Riccardo Ali\*, Haitz Sáez de Ocáriz Borde, Pietro Liò. _ICML 2024 Workshop on Geometry-grounded Representation Learning and Generative Modeling_ (2024). [\[pdf\]](https://arxiv.org/pdf/2407.09926)
+  <u>Paulina Kulytė*</u>, Riccardo Ali\*, Haitz Sáez de Ocáriz Borde, Pietro Liò. _ICML 2024 Workshop on Geometry-grounded Representation Learning and Generative Modeling_ (2024). [\[pdf\]](https://arxiv.org/pdf/2407.09926)
 
