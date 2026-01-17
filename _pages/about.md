@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I research machine learning methods, focusing on generative models for protein design, scalable training pipelines, optimized inference, and model benchmarking.
+I research machine learning methods, focusing on generative models for protein design, scalable training, optimized inference, and benchmarking.
 
 I am a ML Research Engineer at [Absci](https://www.absci.com/), working on generative models for antibody design. I hold a Master's degree in Advanced Computer Science from the [University of Cambridge](https://www.cst.cam.ac.uk/), where I worked on diffusion models under the supervision of [Pietro Liò](https://scholar.google.com/citations?user=4YhNJBEAAAAJ&hl=en) and [José Miguel Hernández-Lobato](https://scholar.google.com/citations?user=BEBccCQAAAAJ&hl=en). Before my Master’s, I was a Software Engineer at [Morgan Stanley](https://www.morganstanley.com/).
 
