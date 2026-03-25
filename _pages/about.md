@@ -17,7 +17,7 @@ Publications
 ------
 
 - **Origin-1: a generative AI platform for de novo antibody design against novel epitopes.**  
-  Simon Levine\*, Jonathan Edward King\*, Jacob Stern\*, David Grayson\*, Raymond Wang\*, Rui Yin\*, Umberto Lupo\*, <u>Paulina Kulytė*</u>, Ryan Matthew Brand\*, Tristan Bertin\*, et al. _ICLR Workshop on Generative and Experimental Perspectives for Biomolecular Design_ (2026). *Oral Presentation.* [\[pdf\]](https://www.biorxiv.org/content/biorxiv/early/2026/01/14/2026.01.14.699389.full.pdf)
+  Simon Levine\*, Jonathan Edward King\*, Jacob Stern\*, David Grayson\*, Raymond Wang\*, Rui Yin\*, Umberto Lupo\*, <u>Paulina Kulytė*</u>, Ryan Matthew Brand\*, Tristan Bertin\*, Amir Shanehsazzadeh, et al. _ICLR Workshop on Generative and Experimental Perspectives for Biomolecular Design_ (2026). *Oral Presentation.* [\[pdf\]](https://www.biorxiv.org/content/biorxiv/early/2026/01/14/2026.01.14.699389.full.pdf)
 
 - **Improving Antibody Design with Force-Guided Sampling in Diffusion Models.**  
   <u>Paulina Kulytė</u>, Francisco Vargas, Simon Valentin Mathis, Yu Guang Wang, José Miguel Hernández-Lobato, Pietro Liò. _NeurIPS Workshop on Machine Learning in Structural Biology_ (2024). [\[pdf\]](https://arxiv.org/pdf/2406.05832)
