@@ -25,3 +25,4 @@ Publications
 - **Metric Learning for Clifford Group Equivariant Neural Networks.**  
   <u>Paulina Kulytė*</u>, Riccardo Ali\*, Haitz Sáez de Ocáriz Borde, Pietro Liò. _ICML Workshop on Geometry-grounded Representation Learning and Generative Modeling_ (2024). [\[pdf\]](https://arxiv.org/pdf/2407.09926)
 
+
